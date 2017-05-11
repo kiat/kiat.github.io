@@ -1,2 +1,2 @@
 # kiat.github.io
-My Academic Website
+My Website
